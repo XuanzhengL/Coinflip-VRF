@@ -41,3 +41,40 @@ Beyond user engagement, developer activity serves as a strong indicator of long-
 Despite the rise of alternative CDP platforms, MakerDAO remains the industry leader due to its deep liquidity, robust risk management mechanisms, and a well-maintained governance structure. The protocol’s strong TVL, active user engagement, and continuous developer activity highlight its resilience and ongoing relevance in DeFi. The upcoming MakerDAO 2.0 (Sky) rebrand introduces further strategic changes that could solidify its dominance, although the broader evolution of blockchain and DeFi will ultimately determine its trajectory.
 
 ![image](https://github.com/user-attachments/assets/a584bd63-e222-4966-92a5-e07bc5f7b917)
+
+
+## Part B
+
+### Historical Price Trends and Market Evaluation
+
+Since Black Thursday, the value of the MKR token has undergone significant fluctuations, reflecting both protocol changes and broader market conditions. In the immediate aftermath of the March 2020 market crash, MKR saw a substantial decline as the MakerDAO system struggled with undercollateralization and liquidations due to extreme volatility in Ethereum prices. However, over time, MakerDAO implemented a series of protocol changes to stabilize the ecosystem, leading to a recovery in MKR’s valuation.
+
+A key factor in this stabilization was the introduction of new risk parameters, including improved auction mechanisms and enhancements to collateral types, ensuring greater system resilience. Additionally, MakerDAO expanded its collateral portfolio, incorporating assets beyond ETH to mitigate reliance on a single volatile asset. The implementation of real-world assets (RWAs) as collateral further contributed to Maker’s long-term stability by introducing diversified, lower-risk backing for DAI.
+
+From the chart on CoinMarketCap, MKR reached a peak in 2021 during the broader DeFi boom, with a price exceeding $6,000 at its highest point. However, as market sentiment cooled and interest rates in traditional finance increased, MKR saw a gradual decline. In early 2025, MKR trades around $898, reflecting a more stabilized market with lower speculative interest but continued strong utility in governance and liquidation processes.
+
+The rebranding of MakerDAO to Sky (SKY) is expected to introduce further changes to tokenomics. The transition aims to decentralize governance further and introduce new financial instruments that optimize capital efficiency. While the long-term effects remain uncertain, these innovations suggest an attempt to future-proof the protocol in a rapidly evolving DeFi landscape.
+
+### Utility of MKR Before and After Black Thursday
+
+| Utility            | Before Black Thursday                                | After Black Thursday                                      |
+|-------------------|--------------------------------------------------|------------------------------------------------------|
+| Governance       | Used for voting on risk parameters and upgrades   | Expanded to include broader protocol changes and decentralization efforts |
+| Collateral Auction | Used in system failures to recapitalize DAI | Auction process improved, reducing liquidation inefficiencies |
+| Stability Fee Payment | MKR used to pay accrued fees in some cases | Stability fees remain, but risk parameters are now more dynamic |
+| Collateral Types | Limited to ETH and a few other assets | Expanded to include RWAs, stablecoins, and institutional-grade assets |
+| Decentralization | Foundation played a central role in governance | Progress towards complete DAO governance with rebranding to Sky |
+
+---
+
+## Part C: Personal Reflection on MakerDAO's Future
+
+MakerDAO’s transition to Sky marks a pivotal moment in its evolution. The rebranding is not merely cosmetic but reflects a shift toward further decentralization, governance restructuring, and enhanced capital efficiency. By splitting into multiple subDAOs, MakerDAO aims to create a more modular and autonomous framework, reducing centralization risks and improving decision-making efficiency.
+
+The tokenomics of SKY is designed to distribute governance power more equitably while maintaining the core principles of MakerDAO. By introducing an ecosystem where different DAOs manage specific functions, MakerDAO is evolving into a multi-layered governance system. This change addresses prior concerns over governance bottlenecks and enhances adaptability in response to rapid market shifts.
+
+Beyond MakerDAO itself, technological advancements such as AI and quantum computing will inevitably influence blockchain and DeFi as a whole. AI-driven risk assessment could optimize collateralization strategies, reducing systemic risks. Quantum computing, on the other hand, poses a potential security threat to cryptographic algorithms, necessitating the exploration of post-quantum security solutions within MakerDAO’s infrastructure.
+
+Despite market fluctuations, MakerDAO’s commitment to innovation, risk management, and governance restructuring ensures its continued relevance. The success of Sky will depend on its ability to attract institutional and retail participation, maintain DAI’s stability, and integrate seamlessly with evolving financial technologies.
+
+
