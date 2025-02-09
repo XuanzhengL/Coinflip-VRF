@@ -13,6 +13,8 @@ Once Chainlink VRF processes the request, the `RequestFulfilled` event is trigge
 
 By using the `RequestSent` and `RequestFulfilled` events, we can comprehensively track the lifecycle of a Chainlink VRF randomness request, from submission to completion, ensuring accuracy and traceability of the random data.
 
+# Part B
+Related code is in the file.
 
 # Part C
 
