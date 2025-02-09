@@ -43,9 +43,9 @@ Despite the rise of alternative CDP platforms, MakerDAO remains the industry lea
 ![image](https://github.com/user-attachments/assets/a584bd63-e222-4966-92a5-e07bc5f7b917)
 
 
-## Part B
+# Part B
 
-### Historical Price Trends and Market Evaluation
+# Historical Price Trends and Market Evaluation
 
 Since Black Thursday, the value of the MKR token has undergone significant fluctuations, reflecting both protocol changes and broader market conditions. In the immediate aftermath of the March 2020 market crash, MKR saw a substantial decline as the MakerDAO system struggled with undercollateralization and liquidations due to extreme volatility in Ethereum prices. However, over time, MakerDAO implemented a series of protocol changes to stabilize the ecosystem, leading to a recovery in MKR’s valuation.
 
@@ -55,7 +55,7 @@ From the chart on CoinMarketCap, MKR reached a peak in 2021 during the broader D
 
 The rebranding of MakerDAO to Sky (SKY) is expected to introduce further changes to tokenomics. The transition aims to decentralize governance further and introduce new financial instruments that optimize capital efficiency. While the long-term effects remain uncertain, these innovations suggest an attempt to future-proof the protocol in a rapidly evolving DeFi landscape.
 
-### Utility of MKR Before and After Black Thursday
+# Utility of MKR Before and After Black Thursday
 
 | Utility            | Before Black Thursday                                | After Black Thursday                                      |
 |-------------------|--------------------------------------------------|------------------------------------------------------|
@@ -67,7 +67,7 @@ The rebranding of MakerDAO to Sky (SKY) is expected to introduce further changes
 
 ---
 
-## Part C: Personal Reflection on MakerDAO's Future
+# Part C
 
 MakerDAO’s transition to Sky marks a pivotal moment in its evolution. The rebranding is not merely cosmetic but reflects a shift toward further decentralization, governance restructuring, and enhanced capital efficiency. By splitting into multiple subDAOs, MakerDAO aims to create a more modular and autonomous framework, reducing centralization risks and improving decision-making efficiency.
 
