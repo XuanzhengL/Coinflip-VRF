@@ -16,6 +16,9 @@ By using the `RequestSent` and `RequestFulfilled` events, we can comprehensively
 # Part B
 Related code is in the file.
 
+![image](https://github.com/user-attachments/assets/880bccd7-04fc-49ba-8ec5-05dc729ba6cc)
+
+
 # Part C
 
 Chainlink VRF offers two main funding mechanisms: the direct funding method and the subscription method, each with distinct operational differences and suitable use cases.
