@@ -1,5 +1,8 @@
 # Exercise 1 - VRF Oracle
 # Part A
+Related code is in the file Coinflip Part A.txt
+
+
 screen shot of RequestSent：
 ![image](https://github.com/user-attachments/assets/c654cffd-9f82-4b97-a5a7-8c17d8d0476b)
 
@@ -14,7 +17,7 @@ Once Chainlink VRF processes the request, the `RequestFulfilled` event is trigge
 By using the `RequestSent` and `RequestFulfilled` events, we can comprehensively track the lifecycle of a Chainlink VRF randomness request, from submission to completion, ensuring accuracy and traceability of the random data.
 
 # Part B
-Related code is in the file.
+Related code is in the file Coinflip.sol
 
 ![image](https://github.com/user-attachments/assets/880bccd7-04fc-49ba-8ec5-05dc729ba6cc)
 
